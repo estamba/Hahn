@@ -1,4 +1,8 @@
 
+## Features not implemented
+I tried to get the localization to work but I couldn't I ran into issues and couldn't find proper documentation. The rest of the requirements have been implemented
+
+
 # `Web API Project`
 
 1. Open the project in Visual studio 2019
@@ -50,5 +54,4 @@ Run `au test` (or `au jest`).
 To run in watch mode, `au test --watch` or `au jest --watch`.
 
 
-## Features not implemented
-I tried to get the localization to work but I couldn't I ran into issues and couldn't find proper documentation. 
+

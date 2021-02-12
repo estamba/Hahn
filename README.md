@@ -5,7 +5,7 @@
 2. Make sure you have .net 5 installed 
 
 3. Start the web api project 
-4. Take note of the port number that its listening on you might need to update the aurelia app if the port number is
+4. Take note of the port number that its listening on you might need to update the frontend app if the port number is
    is not 5001
 
 

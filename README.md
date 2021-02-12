@@ -48,3 +48,7 @@ Run `npm run build`, or the old way `au build --env prod`.
 Run `au test` (or `au jest`).
 
 To run in watch mode, `au test --watch` or `au jest --watch`.
+
+
+## Features not implemented
+I tried to get the localization to work but I couldn't I ran into issues and couldn't find proper documentation. 
